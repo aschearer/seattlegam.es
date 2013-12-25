@@ -3,7 +3,7 @@ echo Installing dependencies
 call npm install
 
 echo Building app
-call .\node_modules\.bin\grunt.cmd prod
+call .\node_modules\.bin\grunt.cmd
 
 echo Installing kudusync
 call npm install kudusync -g --silent
