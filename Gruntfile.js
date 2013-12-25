@@ -17,6 +17,7 @@ module.exports = function (grunt) {
             dev: {
                 files: [
                     { src: ['**', '!**/*.db', ], dest: 'out/assets/', cwd: 'assets', expand: true },
+                    { src: ['Web.config'], dest: 'out/' }
                 ]
             }
         },
