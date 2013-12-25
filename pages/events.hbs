@@ -1,0 +1,44 @@
+---
+title: Upcoming Events
+description: We meet, we make games, we spread fun.
+author: Alex Schearer
+---
+
+<section class="small-12 columns">
+    <h1>
+        We meet, we make games, we spread fun.<br />
+        You're invited
+    </h1>
+
+    <h3 class="subheader">
+        The Seattle Games Co-op is all about getting together to make games and
+        celebrate creativity. We meet regularly to discuss our craft, hone our
+        skills, and show off what we've been working on.
+    </h3>
+    <hr />
+    <h3>Upcoming events</h3>
+    <ul class="small-block-grid-1 medium-block-grid-3">
+    {{#each events}}
+        <li>
+            <div class="event-thumbnail">
+                <img src="assets/images/events/{{thumbnail}}" alt="{{title}}" />
+            </div>
+            <div class="row">
+                <div class="small-3 large-4 columns">
+                    <span class="day">{{day}}</span>
+                    <span class="month">{{month}}</span>
+                    <span class="dayOfWeek">{{dayOfWeek}}</span>
+                    <span class="time">{{time}}</span>
+                </div>
+                <div class="small-9 large-8 columns">
+                    <h3>{{title}}</h3>
+                    <strong class="subheader">
+                        <a href="http://maps.google.com?q={{address}}">{{location}}</a>
+                    </strong>
+                </div>
+            </div>
+            <a class="description" href="{{url}}"><i class="fi-bookmark"></i> RSVP and more details</a>
+        </li>
+    {{/each}}
+    </ul>
+</section>

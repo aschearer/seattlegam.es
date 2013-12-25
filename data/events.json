@@ -1,0 +1,57 @@
+[
+    {
+        "title": "Game Design Workshop",
+        "location": "University Branch Library",
+        "address": "University Branch Library, 5009 Roosevelt, Seattle, WA",
+        "month": "JAN",
+        "day": "5",
+        "dayOfWeek": "SUN",
+        "time": "1pm",
+        "url": "http://www.meetup.com/SeattleGames/events/147586152/",
+        "thumbnail": "game-design-workshop.jpg"
+    },
+    {
+        "title": "Indie Support Group",
+        "location": "Roy St Coffee & Tea",
+        "address": "Roy St Coffee, 700 Broadway Ave E, Seattle, WA",
+        "month": "JAN",
+        "day": "11",
+        "dayOfWeek": "SAT",
+        "time": "2pm",
+        "url": "http://www.meetup.com/SeattleGames/events/155741872/",
+        "thumbnail": "indie-support-group.jpg"
+    },
+    {
+        "title": "Meet & Drink",
+        "location": "Taphouse Bar & Grill",
+        "address": "Taphouse Grill, 550 106th Ave NE, Bellevue, WA",
+        "month": "JAN",
+        "day": "14",
+        "dayOfWeek": "WED",
+        "time": "8pm",
+        "url": "http://www.meetup.com/SeattleGames/events/152265822/",
+        "thumbnail": "meet-and-drink.jpg"
+    },
+    {
+        "title": "Power of Play: Indie Day",
+        "location": "Mariott Redmond Town Center",
+        "address": "Mariott, 7401 164th Ave NE, Redmond, WA",
+        "month": "JAN",
+        "day": "22",
+        "dayOfWeek": "WED",
+        "time": "10am",
+        "url": "http://www.meetup.com/SeattleGames/events/144570662/",
+        "thumbnail": "power-of-play.jpg"
+    },
+    {
+        "title": "Power of Play 2014",
+        "location": "Mariott Redmond Town Center",
+        "address": "Mariott, 7401 164th Ave NE, Redmond, WA",
+        "month": "JAN",
+        "day": "23",
+        "dayOfWeek": "THU",
+        "time": "10am",
+        "url": "http://www.meetup.com/SeattleGames/events/144570662/",
+        "thumbnail": "power-of-play.jpg"
+    }
+]

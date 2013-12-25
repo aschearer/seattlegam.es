@@ -1,0 +1,16 @@
+{
+  "name": "seattlegam.es",
+  "version": "0.0.0",
+  "description": "Website for the Seattle Games Co-op",
+  "main": "Gruntfile.js",
+  "author": "Alex Schearer",
+  "license": "MIT",
+  "devDependencies": {
+    "grunt-cli": "~0.1.11",
+    "assemble": "~0.4.27",
+    "grunt": "~0.4.1",
+    "grunt-contrib-copy": "~0.4.1",
+    "grunt-contrib-less": "~0.8.2",
+    "grunt-contrib-uglify": "~0.2.7"
+  }
+}

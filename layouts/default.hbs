@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>{{title}}</title>
+    <meta name="description" content="{{description}}" />
+    <meta name="author" content="{{author}}">
+
+    <!-- Mobile Specific Metas -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+    <link href="/assets/styles/main.css" rel="stylesheet" />
+    <script type="text/javascript" src="/assets/scripts/main.js"></script>
+
+    <!-- Favicons -->
+    <link rel="shortcut icon" href="/assets/images/favicons/favicon.ico">
+</head>
+<body>
+    <header class="contain-to-grid">
+        <nav class="top-bar" data-topbar>
+            <ul class="title-area">
+                <li class="name">
+                    <h1><a href="index.html">Seattle Games Co-op</a></h1>
+                </li>
+                <li class="toggle-topbar menu-icon"><a href="#"><span>Menu</span></a><li>
+            </ul>
+            <section class="top-bar-section">
+                <ul class="right">
+                    <li class="divider"></li>
+                    <li><a href="events.html"{{#is title "Upcoming Events"}} class="active"{{/is}}>Events</a></li>
+                    <li class="divider"></li>
+                    <li class="has-form"><a class="button" href="get-involved.html"{{#is title "Get Involved"}} class="active"{{/is}}>Get Involved</a></li>
+                </ul>
+            </section>
+        </nav>
+    </header>
+
+    <div class="row">
+        {{>body}}
+    </div>
+
+    <footer>
+        <div class="row">
+            <div class="medium-8 columns">
+                <h5>Never miss a meeting</h5>
+                <p>
+                    Get monthly updates from the Seattle Games Co-op in your inbox.
+                    Read about our upcoming events and what's going on in the local
+                    game development scene.
+                </p>
+            </div>
+            <div class="medium-4 columns">
+                <form method="post" action="http://spottedzebrasoftware.us5.list-manage.com/subscribe/post?u=1af0f0c8a04d4c0c93d052616&amp;id=20d7b0f6a8">
+                    <div class="row collapse">
+                        <div class="small-8 medium-8 columns">
+                            <input type="email" name="EMAIL" placeholder="signup@example.com">
+                        </div>
+                        <div class="small-4 medium-4 columns">
+                            <input type="submit" name="subscribe" class="postfix small button expand" value="Sign Up">
+                        </div>
+                    </div>
+                </form>
+            </div>        
+        </div>
+    </footer>
+    <script type="text/javascript">
+        $(document).foundation();
+    </script>
+</body>
+</html>
