@@ -33,6 +33,17 @@
         "thumbnail": "meet-and-drink.jpg"
     },
     {
+        "title": "Indie Support Group",
+        "location": "Roy St Coffee & Tea",
+        "address": "Roy St Coffee, 700 Broadway Ave E, Seattle, WA",
+        "month": "JAN",
+        "day": "18",
+        "dayOfWeek": "SAT",
+        "time": "2pm",
+        "url": "http://www.meetup.com/SeattleGames/events/qwpnhhyscbxb/",
+        "thumbnail": "indie-support-group.jpg"
+    },
+    {
         "title": "Power of Play: Indie Day",
         "location": "Mariott Redmond Town Center",
         "address": "Mariott, 7401 164th Ave NE, Redmond, WA",
@@ -53,5 +64,27 @@
         "time": "10am",
         "url": "http://www.meetup.com/SeattleGames/events/144570662/",
         "thumbnail": "power-of-play.jpg"
+    },
+    {
+        "title": "Indie Support Group",
+        "location": "Roy St Coffee & Tea",
+        "address": "Roy St Coffee, 700 Broadway Ave E, Seattle, WA",
+        "month": "JAN",
+        "day": "25",
+        "dayOfWeek": "SAT",
+        "time": "2pm",
+        "url": "http://www.meetup.com/SeattleGames/events/158840812/",
+        "thumbnail": "indie-support-group.jpg"
+    },
+    {
+        "title": "Critique Circle",
+        "location": "TBD",
+        "address": "Seattle, WA",
+        "month": "JAN",
+        "day": "29",
+        "dayOfWeek": "WED",
+        "time": "8pm",
+        "url": "http://www.meetup.com/SeattleGames/events/159113762/",
+        "thumbnail": "critique-circle.jpg"
     }
 ]
