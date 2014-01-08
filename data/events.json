@@ -44,6 +44,17 @@
         "thumbnail": "indie-support-group.jpg"
     },
     {
+        "title": "HOGJam #3",
+        "location": "REACTOR",
+        "address": "2820 Elliott Ave, Seattle, WA",
+        "month": "JAN",
+        "day": "18",
+        "dayOfWeek": "SAT",
+        "time": "11am",
+        "url": "http://www.meetup.com/SeattleGames/events/159323542/",
+        "thumbnail": "game-jam.jpg"
+    },
+    {
         "title": "Power of Play: Indie Day",
         "location": "Mariott Redmond Town Center",
         "address": "Mariott, 7401 164th Ave NE, Redmond, WA",
