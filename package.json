@@ -5,7 +5,7 @@
   "main": "Gruntfile.js",
   "author": "Alex Schearer",
   "license": "MIT",
-  "engines": { "node": "0.10.x" },
+  "engines": { "node": "0.8.x" },
   "devDependencies": {
     "grunt-cli": "~0.1.11",
     "assemble": "~0.4.27",
