@@ -1,4 +1,7 @@
 :Deployment
+echo Disabling strict ssl for npm
+call npm config set strict-ssl false
+
 echo Installing dependencies
 call npm install
 
