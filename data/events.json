@@ -97,5 +97,16 @@
         "time": "2pm",
         "url": "http://www.meetup.com/SeattleGames/events/164107912/",
         "thumbnail": "indie-support-group.jpg"
+    },
+    {
+        "title": "Critique Circle",
+        "location": "Raygun Lounge",
+        "address": "501 E. Pine Street, Seattle, WA",
+        "month": "FEB",
+        "day": "26",
+        "dayOfWeek": "WED",
+        "time": "8pm",
+        "url": "http://www.meetup.com/SeattleGames/events/165902122/",
+        "thumbnail": "critique-circle.jpg"
     }
 ]
